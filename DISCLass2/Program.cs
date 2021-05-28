@@ -6,7 +6,7 @@ namespace DISCLass2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Anusha!");
+            Console.WriteLine("Hello Anusha!DIS commit check");
         }
     }
 }
